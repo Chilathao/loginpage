@@ -1,0 +1,16 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    border-radius: 100%;
+    background-image: url(user.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: rgb(0, 204, 61);
+    border: rgb(0, 255, 13);
+}
